@@ -1,6 +1,6 @@
-# A
+# Book Searching App
 
-A
+A book searching app that scrapes from http://books.toscrape.com. You can search by title or description, or filter by price or rating.
 
 ## Getting Started
 
@@ -29,7 +29,13 @@ streamlit run app.py
 
 
 ## Lessons Learned
-A
+How to scrape data from a website and stored in the database.
+
+How to locate and get the information we want from the web page.
+
+How to automatically scrape a multi-page website, and enter the secondary page for data scraping.
+
+
 
 ## Future Improvements
-A
+Scrape more data from the web and add more filters.
